@@ -9,15 +9,7 @@ This repository provides a reproducible, data-driven implementation of a Custome
 - [Overview](#overview)  
 - [Features](#features)  
 - [Prerequisites](#prerequisites)  
-- [Installation](#installation)  
-- [Data Requirements](#data-requirements)  
-- [Configuration](#configuration)  
-- [Methodology](#methodology)  
-- [Usage](#usage)  
-- [Output](#output)  
-- [Example](#example)  
-- [Contributing](#contributing)  
-- [License](#license)  
+
 
 ---
 
